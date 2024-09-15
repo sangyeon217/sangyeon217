@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 [![Tech Blog](https://img.shields.io/badge/Sangyeon's_Tech_Blog-121013?logo=github&logoColor=white&color=%236C3F9B)](https://sangyeon217.github.io/) [![GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangyeon217&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/sangyeon217) [![LinkedIn](https://img.shields.io/badge/Sangyeon_Song-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangyeon-song-301383202) [![Gmail](https://img.shields.io/badge/sangyeon217%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sangyeon217@gmail.com) 
 
 ## 💬 About me
