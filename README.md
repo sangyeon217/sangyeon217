@@ -10,5 +10,5 @@ I love learning new things.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Sangyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeon217&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyeon217)
+![Sangyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeon217&show_icons=true&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyeon217&theme=github_dark)
