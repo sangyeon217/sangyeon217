@@ -11,4 +11,5 @@ I love learning new things.
 
 ## 📊 GitHub Stats
 ![Sangyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeon217&show_icons=true&theme=github_dark)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyeon217&theme=github_dark)
