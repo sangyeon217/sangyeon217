@@ -7,7 +7,7 @@ I'm working as a Software QA Engineer.
 I'm a constant learner.
 
 ## 🌱 I’m currently learning ...
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Sangyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeon217&show_icons=true&theme=github_dark)
